@@ -1,16 +1,11 @@
-# date_picker
+# Date Picker
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi **Date Picker**, yaitu komponen UI yang memungkinkan pengguna untuk memilih tanggal dengan mudah. Fitur ini sangat penting dalam aplikasi yang memerlukan input tanggal, seperti aplikasi kalender, pemesanan, atau pengingat.
 
-## Getting Started
+## Fitur Utama
+- **Pemilihan Tanggal yang Mudah:** Aplikasi ini menyediakan widget DatePicker yang memungkinkan pengguna untuk memilih tanggal dari tampilan kalender yang intuitif.
+- **Integrasi dengan Formulir:** Date Picker dapat dengan mudah diintegrasikan ke dalam formulir untuk memfasilitasi input data yang lebih baik, mengurangi kesalahan input tanggal.
+- **Kustomisasi Tampilan:** Pengguna dapat menyesuaikan tampilan dan perilaku Date Picker, seperti menentukan rentang tanggal yang valid atau format tampilan tanggal.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Date Picker** di aplikasi Flutter. Dengan menggunakan Date Picker, pengguna dapat memahami bagaimana cara menangani input tanggal secara efektif dalam aplikasi mereka. Proyek ini juga memberikan kesempatan untuk belajar tentang pengelolaan dan validasi input tanggal.
