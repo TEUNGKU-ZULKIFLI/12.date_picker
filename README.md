@@ -9,3 +9,10 @@ Proyek Flutter ini berfokus pada implementasi **Date Picker**, yaitu komponen UI
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Date Picker** di aplikasi Flutter. Dengan menggunakan Date Picker, pengguna dapat memahami bagaimana cara menangani input tanggal secara efektif dalam aplikasi mereka. Proyek ini juga memberikan kesempatan untuk belajar tentang pengelolaan dan validasi input tanggal.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/012.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/012.2.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/012.3.png" width="200px"/>
+</div>
